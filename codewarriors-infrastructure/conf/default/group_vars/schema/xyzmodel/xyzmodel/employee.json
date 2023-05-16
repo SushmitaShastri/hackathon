@@ -1,0 +1,17 @@
+{
+  "columns": [
+    {
+      "description": "desc1",
+      "name": "empname",
+      "type": "string"
+    },
+    {
+      "description": "desc2",
+      "name": "empid",
+      "type": "int"
+    }
+  ],
+  "table_name": "employee",
+  "s3_table_name": "s31",
+  "refresh_type": "f1"
+}
